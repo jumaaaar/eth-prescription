@@ -20,6 +20,6 @@ A simple prescription resource for QBCore, created using React. It allows player
 - Using a the prescription will display a read only version of the UI
 
 ## Installation
-- Download latest release at https://github.com/christikat/eth-prescription/releases
+- Download latest release at https://github.com/jumaaaar/eth-prescription/releases/
 - Open the ZIP and move `eth-prescription` into your resource folder and `ensure eth-prescription` in server.cfg
 - Add `prescriptionpad`, `prescription`, and all medications in your ox_inventory
